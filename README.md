@@ -1,7 +1,7 @@
 ## Hi guys! - @PedroPimentelDev👋
 
 
-**PedroPimentelDev/PedroPimentelDev**
+**About Me**
 
 - 🌱 Java | Python | C#
 - 📚 Graduating in Computer science at Anhembi Morumbi; 
