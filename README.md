@@ -1,6 +1,6 @@
 ## Hi guys! - @PedroPimentelDev👋
 
-<! --
+
 **PedroPimentelDev/PedroPimentelDev**
 
 - 🌱 Java | Python | C#
@@ -8,4 +8,4 @@
 - 👀 Open to work;
 - 📫 How to reach me: pe.pimentel19@gmail.com;
 - 💡 Portuguese | English
--->
+
