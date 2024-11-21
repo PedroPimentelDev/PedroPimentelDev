@@ -3,9 +3,9 @@
 
 **About Me**
 
-- 🌱 Java | Python | C#
+- 🌱 C# | Python | Java
 - 📚 Graduating in Computer science at Anhembi Morumbi; 
-- 👀 Open to work;
+- 💼 F360 - #Finter;
 - 📫 How to reach me: pe.pimentel19@gmail.com;
 - 💡 Portuguese | English
 
